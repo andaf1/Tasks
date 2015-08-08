@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="solid_red">#f00</drawable>
+    <drawable name="solid_blue">#00f</drawable>
+    <drawable name="solid_green">#0f0</drawable>
+    <drawable name="solid_white">#fff</drawable>
+    <drawable name="solid_black">#000</drawable>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="light_trans_red">#80EF002F</drawable>
+    <drawable name="light_green">#55B000</drawable>
+    <drawable name="light_trans_green">#8055B000</drawable>
+    <drawable name="light_trans_yellow">#FBF78F</drawable>
+    <drawable name="light_trans_blue">#65b7ee8F</drawable>
+    <drawable name="light_gray">#dcdcdc</drawable>
+    <drawable name="light_gray1">#b0b0b0</drawable>
+    <drawable name="button_gray">#808080</drawable>
+    <drawable name="button_light_green">#4ccc4b</drawable>
+    <drawable name="button_dark_green">#00ee00</drawable>
+    <drawable name="button_light_red">#cc4b4c</drawable>
+    <drawable name="button_dark_red">#ee0000</drawable>
+    <drawable name="light_grey">#dddddd</drawable>
+    <drawable name="button_dark_yellow">#f4df76</drawable>
+    <drawable name="button_dark_blue">#65a7d2</drawable>
+    <drawable name="button_light_blue">#65b7ee</drawable>
+    <drawable name="light_blue">#CFEBFC</drawable>
+    <drawable name="light_trans_gray">#7A353535</drawable>
+    <drawable name="overlay_trans_green">#434DFF4F</drawable>
+    <drawable name="overlay_trans_yellow">#43FCFC1E</drawable>
+    <drawable name="overlay_trans_blue">#434D91FF</drawable>
+
+</resources>

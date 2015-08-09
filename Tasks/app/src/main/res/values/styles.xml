@@ -10,6 +10,7 @@
         <item name="displayOptions">showHome|homeAsUp|showTitle</item>
         <item name="icon">@android:color/transparent</item>
         <item name="colorAccent">@color/floating_action_button_color</item>
+        <item name="android:dropDownItemStyle">@style/DropDownNav.Example</item>
     </style>
 
     <style name="ActionBar.Solid.Example" parent="@style/Widget.AppCompat.ActionBar.Solid">
